@@ -1,0 +1,52 @@
+i{
+	display: inline-block;
+	background: url(../img/icon/icon.png) no-repeat;
+}
+
+i.arrow{
+	width: 15px;
+	height: 8px;
+	background-position: -14px 0px;
+}
+
+i.user{
+	width: 12px;
+	height: 14px;
+	background-position: -117px 0px;
+}
+
+i.password{
+	width: 16px;
+	height: 11px;
+	background-position: -57px 0px;
+}
+
+i.ID{
+ 	width: 14px;
+ 	height: 11px;
+ 	background-position: -43px 0px;
+}
+
+i.mailbox{
+	width: 14px;
+ 	height: 11px;
+ 	background-position: -73px 0px;
+}
+
+i.code{
+	width: 14px;
+	height: 10px;
+	background-position: -29px 0px;
+}
+
+i.alias{
+	width: 14px;
+	height: 13px;
+	background-position: 0px 0px;	
+}
+
+i.phone{
+	width: 14px;
+	height: 14px;
+	background-position: -103px 0px;
+}
