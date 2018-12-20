@@ -13,7 +13,7 @@ const BUILD_PATH = path.resolve(ROOT_PATH, 'build');
 module.exports = {
     entry: {
         polyfill : 'babel-polyfill',
-        main : './src/index.js'
+        main : './src/index.jsx'
     },
     output: {
         path: BUILD_PATH,
@@ -59,7 +59,8 @@ module.exports = {
         progress: true,
         outputPath : BUILD_PATH,
         host : "0.0.0.0",
-        port:3000
+        port:3000,
+        hot: true
     },
     devtool: 'source-map'
 }

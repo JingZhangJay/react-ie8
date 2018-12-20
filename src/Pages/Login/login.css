@@ -363,11 +363,6 @@ label[for=proving]>input[maxlength='4']{
 	padding: 20px;
 }
 
-.proving{
-    height: 46px;
-    line-height: 46px;
-    top:14px;
-}
 .pass{
     margin-top: 14px;
 }
